@@ -239,7 +239,7 @@ export default function App() {
       <div className="prototype-strip">
         <span>BOT Chain Testnet</span>
         <span className="strip-copy">
-          Experimental contract • Test assets only
+          Test assets only
         </span>
       </div>
       {route === "home" ? (
